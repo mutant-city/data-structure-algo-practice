@@ -1,0 +1,11 @@
+al-gore-rhythms
+
+
+infinite series sums
+n + n-1 + n-2..... == n(n+1)/2  == big 0(n^2)
+
+
+
+summing big O
+nlogn + n = nlogn 
+* because it's the bigger term
