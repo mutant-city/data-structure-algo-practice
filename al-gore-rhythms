@@ -9,3 +9,46 @@ n + n-1 + n-2..... == n(n+1)/2  == big 0(n^2)
 summing big O
 nlogn + n = nlogn 
 * because it's the bigger term
+
+
+Algorithms:
+
+palindrome:  
+string with even length: even number of all characters
+string with odd length: even number of all characters except one
+optimized final algorithm: any string with no more than one cahracter with an odd count
+
+
+
+Strategy:
+
+Bit Vector Array: an array of 0/1 useful for testing even odd character counts
+
+
+
+permutation-order does matter
+combination-order does not matter
+
+
+
+
+regex:
+lazy vs greedy quantifiers
+https://javascript.info/regexp-greedy-and-lazy
+
+https://stackoverflow.com/questions/22444/my-regex-is-matching-too-much-how-do-i-make-it-stop
+
+
+lookahead?
+https://stackoverflow.com/questions/45504400/regex-match-pattern-of-alternating-characters
+
+
+
+
+factorial = 4! = 1 * 2 * 3 * 4
+
+
+
+Big O
+----
+https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/
