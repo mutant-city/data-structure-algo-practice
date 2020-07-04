@@ -32,7 +32,7 @@
     * O(n log n) on average, O(n^2) worst
     
 1. heapsort
-    * Note: requires knowledge of a binary tree, and heap datastructure
+    * Note: requires knowledge of a binary tree, and heap data structure
 
 
 https://medium.com/@mera.stackhouse/which-sorting-algorithms-to-know-for-the-tech-interview-654a1f619e1d
